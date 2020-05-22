@@ -8,6 +8,6 @@ Please ignore any comments added in the code.
 
 *DISCLAIMER*
 
-All the images and graphic files used in this project is 100% original and designed by the user.
+All the images and graphic files used in this project are 100% original and designed by the user.
 
 *DISCLAIMER*
